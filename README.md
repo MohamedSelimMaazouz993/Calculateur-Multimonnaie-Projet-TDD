@@ -72,4 +72,4 @@ Cependant, il y a des erreurs dans les résultats attendus des tests `testConver
 <p align="center">
  <img  src="https://github.com/MohamedSelimMaazouz993/calculateur-multimonnaie-TDD-project/assets/71633887/c5cc0ebd-3ee4-455f-a4eb-725d862131bf">
 </p>
-<h6 align="center" >  Junit Test Result </h6>
+<h6 align="center" >  Junit Test Resultat </h6>

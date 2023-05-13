@@ -1,13 +1,13 @@
 # Calculateur Multimonnaie TDD Maven Project
 
-- Arborescence Du Projet Maven "Calculateur Multimonnaie" :
+### Arborescence Du Projet Maven "Calculateur Multimonnaie" :
 
 <p align="center">
  <img  src="https://github.com/MohamedSelimMaazouz993/calculateur-multimonnaie-TDD-project/assets/71633887/9825e7bb-d1e7-454e-9a9f-97c58bafb610">
 </p>
 <h6 align="center" > Vue Arborescence Du Projet  </h6>
 
-- Classe Calculateur : 
+###  Classe Calculateur : 
 
 <p align="center">
  <img  src="https://github.com/MohamedSelimMaazouz993/calculateur-multimonnaie-TDD-project/assets/71633887/d3ec23e8-a075-4aa1-842b-fcbb31dd01cf">
@@ -22,7 +22,7 @@
 - la classe `Calculateur` permet de définir les taux de change entre différentes devises à l'aide de la méthode `setTauxDeChange()` et d'effectuer des conversions de devises à l'aide de la méthode `convertir()`.
 
 
-- Classe Monnaie  : 
+###  Classe Monnaie  : 
 
 <p align="center">
  <img  src="https://github.com/MohamedSelimMaazouz993/calculateur-multimonnaie-TDD-project/assets/71633887/09d6f88e-0e86-488d-b142-b8bc46e8e075">
@@ -38,7 +38,7 @@ La classe `Monnaie` est une énumération qui représente les différentes devis
  la classe `Monnaie` fournit une liste prédéfinie des devises disponibles, ce qui permet de spécifier facilement la devise source et la devise cible lors de la conversion dans le calculateur.
 
 
-- Classe CalculateurTest :
+###  Classe CalculateurTest :
 
 <p align="center">
  <img  src="https://github.com/MohamedSelimMaazouz993/calculateur-multimonnaie-TDD-project/assets/71633887/48e56e74-3664-4a0b-9698-43d58aafb854">
@@ -59,7 +59,7 @@ Le fichier `CalculateurTest` contient actuellement trois méthodes de test : `te
 Cependant, il y a des erreurs dans les résultats attendus des tests `testConversionEuroVersDollar()` et `testConversionDollarVersEuro()`. Vous devrez ajuster les valeurs attendues en fonction des taux de change et des conversions que vous souhaitez tester.
 
 
-- Comment Lancer Le Test : 
+###  Comment Lancer Le Test : 
 
 <p align="center">
  <img  src="https://github.com/MohamedSelimMaazouz993/calculateur-multimonnaie-TDD-project/assets/71633887/10d8f3dd-684b-42c4-8542-ce01c830ff7d">
@@ -67,7 +67,7 @@ Cependant, il y a des erreurs dans les résultats attendus des tests `testConver
 <h6 align="center" >  Comment Lancer Le Test </h6>
 
 
-- Resultat de Test  : 
+### Resultat de Test  : 
 
 <p align="center">
  <img  src="https://github.com/MohamedSelimMaazouz993/calculateur-multimonnaie-TDD-project/assets/71633887/c5cc0ebd-3ee4-455f-a4eb-725d862131bf">
